@@ -22,21 +22,22 @@ make 05
 
 ## Analysis
 
-Table 1. (Unit: sec)
+
+Table 1. The execution time comparison of the OpenCL version and the standard version.(Unit: sec)
 <!-- Table01 -->
 <br />
         <p align="left">
                 <img src="images/Table01.png" alt="Table01">       
         </p>
 <br/>
-Table 2. (Unit: sec)
+Table 2. The execution time comparison of the OpenMP version and the OpenCL version. (Unit: sec)
 <!-- Table02 -->
 <br />
         <p align="left">
                 <img src="images/Table02.png" alt="Table02">       
         </p>
 <br/>
-Table 3. (Unit: sec)
+Table 3. 
 <!-- Table03 -->
 <br />
         <p align="left">
