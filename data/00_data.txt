@@ -1,0 +1,5 @@
+01_kid.csv: 3 features, 2 decisions, CR, artificial data for explaination purposes
+02_iris.csv: 4 features, 1 decision, C, data source: https://archive.ics.uci.edu/ml/datasets/iris
+03_Skin_NonSkin.csv: 3 features, 1 decision, C, data source: https://archive.ics.uci.edu/ml/datasets/Skin+Segmentation
+04_music_default.csv: 68 features, 2 decisions, CC or RR, data source: https://archive.ics.uci.edu/ml/datasets/Geographical+Original+of+Music
+05_music_plus.csv: 116 features, 2 decisions, CC or RR, data source: https://archive.ics.uci.edu/ml/datasets/Geographical+Original+of+Music
