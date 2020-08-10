@@ -22,7 +22,6 @@ make 05
 
 ## Analysis
 
-
 Table 1. The execution time comparison of the OpenCL version and the standard version.(Unit: sec)
 <!-- Table01 -->
 <br />
@@ -31,13 +30,15 @@ Table 1. The execution time comparison of the OpenCL version and the standard ve
         </p>
 <br/>
 Table 2. The execution time comparison of the OpenMP version and the OpenCL version. (Unit: sec)
+<br />
+<br/>
 <!-- Table02 -->
 <br />
         <p align="left">
                 <img src="images/Table02.png" alt="Table02">       
         </p>
 <br/>
-Table 3. 
+Table 3. Visualization of these two accelerated version comparison.
 <!-- Table03 -->
 <br />
         <p align="left">
