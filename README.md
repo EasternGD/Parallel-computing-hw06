@@ -22,10 +22,25 @@ make 05
 
 ## Analysis
 
-Unit: sec
-<!-- Table -->
+Table 1. (Unit: sec)
+<!-- Table01 -->
 <br />
         <p align="left">
                 <img src="images/Table01.png" alt="Table01">       
         </p>
 <br/>
+Table 2. (Unit: sec)
+<!-- Table02 -->
+<br />
+        <p align="left">
+                <img src="images/Table02.png" alt="Table02">       
+        </p>
+<br/>
+Table 3. (Unit: sec)
+<!-- Table03 -->
+<br />
+        <p align="left">
+                <img src="images/Table03.png" alt="Table03">       
+        </p>
+<br/>
+
