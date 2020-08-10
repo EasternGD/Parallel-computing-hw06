@@ -46,3 +46,13 @@ Table 3. Visualization of these two accelerated version comparison.
         </p>
 <br/>
 
+## Folder Structure
+* Data is saved into the `data` folder.
+* Header files is saved into the `inc` folder.
+* Code is saved into the `src` folder.
+
+## Contact
+
+Abbey, Chen - encoref9241@gmail.com
+
+Project Link: [Parallel-computing-hw06](https://github.com/EasternGD/Parallel-computing-hw06.git)
